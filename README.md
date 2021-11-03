@@ -5,7 +5,9 @@
 - 💬 Ask me anything about Social Media Growth using Data Analytics & Software Automation using Python
 - 🎥 I'm currently creating Tech videos about Data Engineering (_Why you should become one_, _Why there are 214m Netflix versions..._)
 - ⛏ I'm currently working on Social Media Scrapers (YT, IG & TW) to figure out emerging trends and understanding the recommendation algorithms applying ML (NLP).
+
 - 📱 Check my other [socials](https://omnil.ink/long)
+
 
 
 <!---
