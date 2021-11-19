@@ -1,6 +1,6 @@
 # Software Engineer  | Twitch Streamer | YouTube Tech Videos
 
-- 📫 How to reach me the fastest way: [Instagram DM](https://instagram.com/long.integer)
+- 📫 How to reach me the fastest way: [@long.integer](https://instagram.com/long.integer) on Instagram DM
 - ⚒ Building a community to enhance cross-disciplinary collaborations: [self.dev](www.theselfdev.com)
 - 💬 Ask me anything about Social Media Growth using Data Analytics & Software Automation using Python
 - 🎥 I'm currently creating Tech videos about Data Engineering (_Why you should become one_, _Why there are 214m Netflix versions..._)
