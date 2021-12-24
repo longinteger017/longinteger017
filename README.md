@@ -5,7 +5,7 @@
 - 💬 Ask me anything about Social Media Growth using Data Analytics & Software Automation using Python
 - 🎥 I do weekly study-with-me YouTube livestreams & create tech videos about Data Engineering (_Why you should become one_, _Why there are 214m Netflix versions..._)
 - ⛏ I'm currently working on Social Media Scrapers (YT, IG & TW) to figure out emerging trends and understanding the recommendation algorithms applying ML (NLP).
-- I am also getting my hands on web3 building dApps. Recently just deployed a [test DAO](https://selfdev-dao-with-js-i1r3fl851-longinteger017.vercel.app/) for [self.dev](https://www.theselfdev.com) community to learn more about NFTs and the DAO space.
+- I am also getting my hands on web3 building dApps and recently deployed the [selfdevDAO](https://selfdev-dao-with-js.vercel.app/) for [self.dev](https://www.theselfdev.com) community to learn more about NFTs and the DAO space.
 
 - 📱 Check my other [socials](https://omnil.ink/long)
 
