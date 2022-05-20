@@ -1,11 +1,10 @@
 # Software Engineer  | Twitch Streamer | YouTube Tech Videos
 
 - 📫 How to reach me the fastest way: [@long.integer](https://instagram.com/long.integer) on Instagram DM
-- ⚒ Building a community to enhance cross-disciplinary collaborations: [self.dev](https://www.theselfdev.com)
-- 💬 Ask me anything about Social Media Growth using Data Analytics & Software Automation using Python
-- 🎥 I do weekly study-with-me YouTube livestreams & create tech videos about Data Engineering (_Why you should become one_, _Why there are 214m Netflix versions..._)
-- ⛏ I'm currently working on Social Media Scrapers (YT, IG & TW) to figure out emerging trends and understanding the recommendation algorithms applying ML (NLP).
-- I am also getting my hands on web3 building dApps and recently deployed the [selfdevDAO](https://selfdev-dao-with-js.vercel.app/) for [self.dev](https://www.theselfdev.com) community to learn more about NFTs and the DAO space.
+- ⚒ Building a community commencing cross-disciplinary collaborations and building great solutions in tech: [self.dev](https://www.theselfdev.com)
+- 🎥 I do weekly co-working Twitch livestreams & create tech videos about Data Engineering and NFTs.
+- ⛏ I'm currently building automation systems and useful data analytics tools in the web3, focusing on on-chain blockchain data and NFTs. 
+- I am also getting my hands on web3 building dApps and recently deployed a test version of the [selfdevDAO](https://selfdev-dao-with-js.vercel.app/) for [self.dev](https://www.theselfdev.com) community to learn more about NFTs and the DAOs.
 
 - 📱 Check my other [socials](https://omnil.ink/long)
 
