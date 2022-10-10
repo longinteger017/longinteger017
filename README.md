@@ -2,11 +2,11 @@
 
 - 📫 How to reach me the fastest way: [@long.integer](https://instagram.com/long.integer) on Instagram DM
 - ⚒ Building a community commencing cross-disciplinary collaborations and building great solutions in tech: [self.dev](https://www.theselfdev.com)
-- 🎥 I do weekly co-working Twitch livestreams & create tech videos about Data Engineering and NFTs.
-- ⛏ I'm currently building automation systems and useful data analytics tools in the web3, focusing on on-chain blockchain data and NFTs. 
+- 🎥 I do weekly co-working Twitch livestreams & create tech videos about Data Engineering and Productivity.
+- ⛏ I'm currently working on automated solutions detecting trends on social media through Data Engineering and Data Science.
 - I am also getting my hands on web3 building dApps and recently deployed a test version of the [selfdevDAO](https://selfdev-dao-with-js.vercel.app/) for [self.dev](https://www.theselfdev.com) community to learn more about NFTs and the DAOs.
 
-- 📱 Check my other [socials](https://omnil.ink/long)
+- 📱 Check my other [socials](https://beacons.ai/longinteger)
 
 
 
