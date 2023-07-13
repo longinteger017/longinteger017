@@ -9,6 +9,7 @@
 - 📱 Check my other [socials](https://bento.me/longinteger)
 
 
+<a href="https://discord.gg/selfdev"><img src="https://github.com/selfdevs/self-dev-logo/blob/main/2023/self_dev_v1.png" width="300" alt="self.dev logo"/></a>
 
 <!---
 ## Stats
