@@ -4,7 +4,7 @@
 - ⚒ Building a community commencing cross-disciplinary collaborations and building great solutions in tech: [self.dev](https://www.theselfdev.com)
 - 🎥 I do weekly co-working Twitch livestreams & create tech videos about Data Engineering and Productivity.
 - ⛏ I'm currently working on educational AI content and AI-powered chatbots.
-- I am also highly invested in the AI space, especially NLP and language models. Currently building GPT-powered chatbots for my tech community [self.dev](https://theselfdev.com)
+- 🦾 I am also highly invested in the AI space. Currently building GPT-powered chatbots for the [self.dev](https://theselfdev.com) community 
 
 - 📱 Check my other [socials](https://bento.me/longinteger)
 
